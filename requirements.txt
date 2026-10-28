@@ -1,0 +1,9 @@
+pandas
+numpy
+pyarrow
+duckdb
+requests
+plotnine
+pydantic
+langchain-openai
+langchain-core
