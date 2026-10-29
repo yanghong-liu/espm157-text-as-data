@@ -1,0 +1,5 @@
+scenario,counted_risk_rules,rules,fraction,choice_type
+Recorded scope,140,303,0.46204620462046203,Baseline
+Exclude new geographic/population protection,139,297,0.468013468013468,Corpus choice
+Exclude first permanent rules after temporary emergencies,139,298,0.4664429530201342,Corpus choice
+Count unresolved interpretations as risk findings,153,303,0.504950495049505,Label choice; not an error bound
