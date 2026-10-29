@@ -1,0 +1,17 @@
+{
+  "source": "Delach et al. open data, Dataset 2",
+  "doi": "https://doi.org/10.17605/OSF.IO/R9UCA",
+  "cache_note": "Hashes identify the cached bytes used here. Original retrieval time was not separately recorded.",
+  "files": [
+    {
+      "filename": "delach_discussion.csv",
+      "download_url": "https://osf.io/download/76ytr/",
+      "sha256": "94f2f8c407776625b0b77039375c7c9339c4b4f10a2f5643a2b7f6c6ed97b9a2"
+    },
+    {
+      "filename": "delach_metadata.csv",
+      "download_url": "https://osf.io/download/4bm8u/",
+      "sha256": "fd67eea8c1793f4b0760bc08a336e57ac9a1ec83b4ae4d4f1c799747f47f0fef"
+    }
+  ]
+}

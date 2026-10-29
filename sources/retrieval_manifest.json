@@ -1,0 +1,15 @@
+{
+  "retrieved_at_utc": "2026-10-28T19:15:23.420991+00:00",
+  "api_record_count": 1534,
+  "query_urls": [
+    "https://www.federalregister.gov/api/v1/documents.json?conditions%5Bagencies%5D%5B%5D=fish-and-wildlife-service&conditions%5Btype%5D%5B%5D=RULE&conditions%5Bpublication_date%5D%5Bgte%5D=1996-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2025-12-31&per_page=1000&order=oldest&fields%5B%5D=document_number&fields%5B%5D=title&fields%5B%5D=publication_date&fields%5B%5D=action&fields%5B%5D=raw_text_url&fields%5B%5D=html_url&fields%5B%5D=abstract&fields%5B%5D=type&page=1",
+    "https://www.federalregister.gov/api/v1/documents.json?conditions%5Bagencies%5D%5B%5D=fish-and-wildlife-service&conditions%5Btype%5D%5B%5D=RULE&conditions%5Bpublication_date%5D%5Bgte%5D=1996-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2025-12-31&per_page=1000&order=oldest&fields%5B%5D=document_number&fields%5B%5D=title&fields%5B%5D=publication_date&fields%5B%5D=action&fields%5B%5D=raw_text_url&fields%5B%5D=html_url&fields%5B%5D=abstract&fields%5B%5D=type&page=2"
+  ],
+  "scope": {
+    "agency": "FWS",
+    "start": "1996-01-01",
+    "end": "2025-12-31",
+    "type": "RULE"
+  },
+  "metadata_sha256": "b20e7f516a7a63b4e22fe51c740bb2f4042b1abccc1bbd0901764a00bcd55515"
+}

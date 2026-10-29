@@ -1,0 +1,15 @@
+"Data to accompany peer-reviewed article entitled ""Agency plans are inadequate to conserve US endangered species under climate change""",
+,
+"Dataset 2 of 2, containing evaluation of whether climate change is discussed as a threat to species in planning for climate-related management action in official ESA documents and the date of most recent document",
+Structure: one row per species,
+,
+Header,Meaning
+Scientific_Name,Scientific name
+Common_Name,Common name
+Date,Date of most recent official Endangered Species Act document
+Taxon,Vertebrate or invertebrate
+Subtaxon,"Taxonomic class: arthropod, amphibian, bird, fish, mammal, mollusk, reptile"
+Lead_Region,Leading agency (US Fish and Wildlife or US National Marine Fisheries Service) and region designated with management and recovery of the species
+State,State(s) in agency region
+CC_Discuss,Whether climate change was discussed as a potential threat (yes or no)
+Discuss_Level,"Level of discussion of plans for climate change-related management action: ""no discussion"", ""no threat, no action needed"", ""further study"" or ""action"""

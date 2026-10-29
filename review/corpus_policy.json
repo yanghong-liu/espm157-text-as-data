@@ -1,0 +1,10 @@
+{
+  "pure_similarity_of_appearance": {
+    "decision": "exclude",
+    "meaning": "Exclude rules providing only appearance-based protection; keep mixed rules if they also make an independent first risk-based listing."
+  },
+  "new_geographic_protection": {
+    "decision": "include",
+    "meaning": "Include rules that add previously uncovered populations or geographic areas. Exclude pure renaming, resegmentation, status changes, reaffirmations, and restorations of existing protections."
+  }
+}
